@@ -1,7 +1,7 @@
 import { useGlobalStyle } from 'use-global-style';
 
 /**
- * Private hook that blocks iframes from intercepting the cursor
+ * A private hook that blocks iframes from intercepting the cursor
  * @param value enable or disable
  */
 export const useIframeSkipEvents = (value: boolean) => {
