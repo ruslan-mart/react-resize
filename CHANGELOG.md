@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ruslan-mart/react-resize/compare/v1.0.0...v1.0.1) (2022-08-04)
+
+
+### Bug Fixes
+
+* 🐛 updated documentation ([578e544](https://github.com/ruslan-mart/react-resize/commit/578e544cedc01477f2b3d024e75c5ad243719c57))
+
 # 1.0.0 (2022-08-04)
 
 
