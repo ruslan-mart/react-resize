@@ -1,6 +1,6 @@
 {
   "name": "@martdev/react-resize",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "author": "Ruslan Martynov",
   "license": "MIT",
   "description": "React resizable component and React resize hook",
